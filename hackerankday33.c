@@ -27,9 +27,10 @@ int main()
             }
         }
     }
-   if(m==(c/2))
+    printf("%d",(c/2));
+  /* if(m==(c/2))
    {
        printf("%d",m);
-   }
+   }*/
     return 0;
 }
